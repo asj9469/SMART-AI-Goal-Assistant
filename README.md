@@ -3,6 +3,9 @@
  ## Brief Description:
  A simple VoiceFlow AI chatbot that guides users to specify their long term goals and help create efficient plans.
 
+## 2-min Demo
+[![SMART Goal Assistant Demo](https://i.ytimg.com/vi/VoxyuZWyctI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCFmE87ky0cLdjCMNhKiR2i4wZXgg)](https://youtu.be/VoxyuZWyctI)
+
 ## Background:
 - A project submitted to the PromptHacks 2023 Hackathon.
 
