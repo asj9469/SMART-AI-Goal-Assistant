@@ -1,11 +1,10 @@
-# SMART-AI-Goal-Assistant
+# SMART-AI-Goal-Assistant [![image](https://img.shields.io/badge/🎯Try_Assistant-299ECE?style=for-the-badge&logo=voiceflow&logoColor=white)](https://creator.voiceflow.com/prototype/644de7d93e87a3cf4f4f33a5)
  
  ## Brief Description:
  A simple VoiceFlow AI chatbot that guides users to specify their long term goals and help create efficient plans.
+ 
 
-## 2-min Demo
-[![image](https://img.shields.io/badge/🎯Try/Assistant-000000?style=for-the-badge&logo=voiceflow&logoColor=white)](https://creator.voiceflow.com/prototype/644de7d93e87a3cf4f4f33a5)
-
+## 2-min Demo Video
 [![SMART Goal Assistant Demo](https://img.youtube.com/vi/VoxyuZWyctI/0.jpg)](https://youtu.be/VoxyuZWyctI)
 
 ## Background:
